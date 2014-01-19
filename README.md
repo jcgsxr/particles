@@ -10,14 +10,14 @@ Hopefully, this can serve as a decent example for anyone interested in jumping i
 
 Examples
 --------
-![alt text](https://github.com/jcgsxr/particles/blob/master/screenshots/screen1.png "3D particle explosion effect")
+![alt text](https://raw2.github.com/jcgsxr/particles/master/screenshots/screen1.png "3D particle explosion effect")
 Tap and drag to rotate around the particles, pinch to zoom. The buttons on the right-hand side allow for reversing or pausing time.
 
-![alt text](https://github.com/jcgsxr/particles/blob/master/screenshots/screen2.png "2D fire effect")
+![alt text](https://raw2.github.com/jcgsxr/particles/master/screenshots/screen2.png "2D fire effect")
 A regular 2D effect, nothing special :)
 
-![alt text](https://github.com/jcgsxr/particles/blob/master/screenshots/screen3.png "3D string effect")
+![alt text](https://raw2.github.com/jcgsxr/particles/master/screenshots/screen3.png "3D string effect")
 Chaining particles together gives a string-type effect.
 
-![alt text](https://github.com/jcgsxr/particles/blob/master/screenshots/screen4.png "3D orbiting effect")
+![alt text](https://raw2.github.com/jcgsxr/particles/master/screenshots/screen4.png "3D orbiting effect")
 Using a gravity well of sorts, the particles will circle around endlessly.
