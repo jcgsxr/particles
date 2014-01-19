@@ -5,8 +5,12 @@ Intro
 -----
 Created back in 2009, this is one of my first iOS related projects. It demonstrates various 3D particle effects, as well as pause and rewind features for certain effects. 
 Since not much of the code has been modified for a long time, it's not super clean, nor is it very modern. 
-Most of this project is written in C++, and uses includes profiling info, such as the number of polys being rendered at any time, and the resulting fps.
+
+All code was written by myself, and most of it is written in C++ (before I became comfortable in Objective-C). Along with the visual particle effects, profiling info is also made visible, such as the number of polys being rendered at any time, and the resulting fps.
+
 Hopefully, this can serve as a decent example for anyone interested in jumping into low level graphics programming.
+
+
 
 Examples
 --------
