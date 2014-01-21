@@ -8,7 +8,7 @@ Since not much of the code has been modified for a long time, it's not super cle
 
 All code was written by myself, and most of it is written in C++ (before I became comfortable in Objective-C). Along with the visual particle effects, profiling info is also made visible, such as the number of polys being rendered at any time, and the resulting fps.
 
-Hopefully, this can serve as a decent example for anyone interested in jumping into low level graphics programming.
+Hopefully, this can serve as a decent example for anyone interested in jumping into graphics programming.
 
 
 
