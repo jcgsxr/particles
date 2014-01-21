@@ -24,4 +24,4 @@ A regular 2D effect, nothing special :)
 Chaining particles together gives a string-type effect.
 
 ![alt text](https://raw2.github.com/jcgsxr/particles/master/screenshots/screen4.png "3D orbiting effect")
-Using a gravity well of sorts, the particles will circle around endlessly.
+Using a gravity well of sorts, the particles will circle around continuously.
